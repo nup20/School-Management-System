@@ -12,6 +12,7 @@ double  SID ,Sclass,MARKS;
 double M1[5],M2[5];
 double croll,NM1[5],NM2[5];  //M1[0] M2[0]
 
+ 
     int i;
     Student()
     {
